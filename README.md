@@ -1,4 +1,4 @@
-# Image Processing with FPGA
+# Simple Pacman Game
 Yih CHENG (https://github.com/chengyih001)<br>
 
 ## Environment
