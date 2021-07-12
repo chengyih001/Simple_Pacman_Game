@@ -4,7 +4,7 @@ import random
 
 # - Setup the turtle window
 turtle.setup(800, 700)
-turtle.title("COMP1021 - Pacman")
+turtle.title("Pacman Game")
 turtle.bgcolor("black")
 
 # - Setup the turtle
